@@ -8,6 +8,8 @@ W większości pól gracz może napotkać przeciwników z którymi musi stoczyć
 Elementy uzbrojenia mogą być ulepszane.
 Wzrosną wtedy ich statystyki a ich wygląd ulegnie delikatnej zmianie(np. flaga w końcu stanie się włócznią).
 
+Naruki można zobaczyć na zdjęciu. Plik naruki.jpg
+
 Inspiracją dla postaci oraz jej uzbrojenia jest styl tańca Yosakoi, który powstał w Japonii.
 Kilka układów tanecznych wykorzystuje wymienione wcześniej Naruki. Flagę Yosakoi natomiast można zobaczyć na corocznym festiwalu
 w Kochi w Japonii, gdzie zjeżdżają się grupy z całego świata. Najlepsi tancerze otrzymują kwiatowy medal "hana medaru",
