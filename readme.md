@@ -23,3 +23,7 @@ Najistotniejszymi elementami są sterowanie oraz warunki wygranej jak i przegran
 
 W grze chcielibyśmy zawrzeć również proste skille, które staną się dostępne gdy bronie osiągną odpowiedni poziom ulepszenia. Np. Naruki będą mogły co jakiś czas ogłuszyć przeciwnika głośnym uderzeniem.  
 Podział zadań: Mikołaj zajmie się programowaniem, logiką itp., Dawid bierze na siebie animacje, postacie natomiast wspólnie - prefaby pokoi, z których będzie generowana mapa. Oczywiście nie zamierzamy się tego sztywno trzymać. To są tylko wstępne założenia. Niemal na pewno skończy się to tak, że będziemy sobie wzajemnie pomagać gdzie się da - przecież nie będziemy marnować czasu na zasadzie “ja wszystko zrobiłem i czekam na Ciebie” :)
+
+Pozdrawiamy
+
+Mikołaj Twardowski i Dawid Woźniak
